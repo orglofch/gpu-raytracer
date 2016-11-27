@@ -1,0 +1,3 @@
+[submodule "GPU-Raytracer/Utility"]
+	path = GPU-Raytracer/Utility
+	url = https://github.com/orglofch/Utility.git
